@@ -1,4 +1,4 @@
-### README for Lung and Colon Cancer Classification Using CNN
+### Lung and Colon Cancer Classification Using CNN
 
 ---
 
